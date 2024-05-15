@@ -9,13 +9,6 @@ CrossLangIOTest is a framework designed to verify the consistency of function in
 - **Input/Output Configuration**: Automatically generate configuration files listing input and output parameters.
 - **Result Comparison**: Tools to compare the outputs from different language implementations to ensure consistency.
 
-## Setup
-
-1. **Create the Directory Structure**:
-    The script will automatically create a directory named after the function being tested and populate it with necessary files.
-
-2. **Generate Input and Output Files**:
-    The framework generates input and output files for each parameter and language, organizing them for easy comparison.
 
 ## How to Use
 
