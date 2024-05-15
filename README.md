@@ -16,10 +16,8 @@ CrossLangIOTest is a framework designed to verify the consistency of function in
     Edit the script to specify the function name, input parameters, and output return parameters.
 
 2. **Run the Script**:
-    Execute the script to create the directory structure and files:
-    ```python
-    python create_test_structure.py
-    ```
+    I run it on vscode, please modify the top configs to generate unit test directory and test files.
+
 
 3. **Implement Unit Tests**:
     Implement the generated unit test files in the respective languages.
